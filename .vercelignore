@@ -1,5 +1,8 @@
 docs/
-scripts/
+scripts/mcp-server.ts
+scripts/mcp-server.mjs
+scripts/dev.ts
+scripts/test.ts
 tests/
 examples/
 contributing/
