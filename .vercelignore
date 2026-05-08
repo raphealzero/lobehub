@@ -1,0 +1,14 @@
+docs/
+scripts/
+tests/
+examples/
+contributing/
+.github/
+.vscode/
+.eslintrc.js
+.prettierrc.js
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+README.md
+README.zh-CN.md
